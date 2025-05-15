@@ -1,0 +1,19 @@
+Your password generator uses these built-in Python packages/modules:
+
+random
+
+For randomly selecting characters (random.choice(), random.choices())
+
+For shuffling the password characters (random.shuffle())
+
+string
+
+Provides predefined character sets:
+
+string.ascii_lowercase — lowercase letters (a-z)
+
+string.ascii_uppercase — uppercase letters (A-Z)
+
+string.digits — digits (0-9)
+
+string.punctuation — special symbols (like !@#$%^&*() etc.)
